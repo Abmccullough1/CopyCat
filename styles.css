@@ -19,6 +19,7 @@ body{
     position: absolute;right: 85px;
     color: white;
     font-size: 20px;
+    text-decoration:none;
 
 }
 .view{
@@ -44,58 +45,66 @@ body{
 }
 .copyright{
     color: white;
-    position: absolute;bottom:10px;
-    position: absolute;right: 475px;
+    position: absolute;bottom:-30px;
+    position: absolute;right: 415px;
     font-size: 8px;
 }
 .bottom{
     color: white;
-    position: absolute;bottom: 30px;
+    position: absolute;bottom: -10px;
     position: absolute;right: 275px;
     font-size: 13px;
 }
 
 .box1{
     position: absolute;top:300px;
-    position: absolute;right:500px;
+    position: absolute;right:450px;
     height:30px;
     width: 400px;
 }
 .email{
     color: white;
     font-size: 19px;
-    position: absolute;right:870px;
+    position: absolute;right:850px;
     position: absolute;top: 275px;
 }
 .box2{
     position: absolute;top: 375px;
-    position: absolute;right:500px;
+    position: absolute;right:450px;
     height:30px;
     width: 400px;
 }
 .password{
     color: white;
     font-size: 19px;
-    position: absolute;right:845px;
+    position: absolute;right:825px;
     position: absolute;top:350px;
 }
 .forgotten{
     color: white;
-    position: absolute;top:550px;
-    position: absolute;right: 660px;
+    position: absolute;top:500px;
+    position: absolute;right: 610px;
 }
 .login{
-    color: lightgray;
-    position: absolute;right:700px;
-    position: absolute;top:425px
+    background-color: rgb(91, 91, 243); 
+    border: none;
+    color: white;
+    padding: 15px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;top: 410px;
+    position: absolute;right:520px
+    
 }
 .account{
     color: white;
-    position: absolute;top:625px;
-    position: absolute;right:610px;
+    position: absolute;top:570px;
+    position: absolute;right:565px;
 }
 .signup{
     color: white;
-    position: absolute;top: 650px;
-    position: absolute;right: 685px;
+    position: absolute;top: 600px;
+    position: absolute;right: 635px;
 }
